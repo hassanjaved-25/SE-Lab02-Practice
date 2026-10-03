@@ -1,2 +1,2 @@
-Hello! This is Hassan Javed working on the main branch.
+Hello! This is Hassan Javed practicing branching and merging.
 This is my Git and GitHub practice for SE Lab 2.
